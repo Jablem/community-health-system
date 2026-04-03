@@ -1,9 +1,9 @@
 # 社区康养管理系统
 
 一个基于 Spring Boot 3 和 Vue 3 的前后端分离社区健康管理系统。
-（这是一个vibe coding练习项目，vibe coding挺好玩的）
-(en: Just a pritice project of vibe coding, btw I'm joy in it.)
-(Using by JVS Code & OpenCode, the model is Qwen3.6 Plus.)
+- （这是一个vibe coding练习项目，vibe coding挺好玩的）
+- (en: Just a pritice project of vibe coding, btw I'm joy in it.)
+- (Using by JVS Code & OpenCode, the model is Qwen3.6 Plus.)
 
 ## 技术栈
 
